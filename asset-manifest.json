@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Clubs/static/css/main.f60d8ec5.css",
+    "main.js": "/Clubs/static/js/main.a0ef0989.js",
+    "static/js/453.ab4e8145.chunk.js": "/Clubs/static/js/453.ab4e8145.chunk.js",
+    "static/media/textbox.png": "/Clubs/static/media/textbox.d3a73aa89fdafafd2714.png",
+    "static/media/border.png": "/Clubs/static/media/border.1b3a0d2174fae4e31b07.png",
+    "static/media/panel.png": "/Clubs/static/media/panel.aab5806e95751fbd0e55.png",
+    "static/media/battlefield.jpg": "/Clubs/static/media/battlefield.9f2711b867a704ab3365.jpg",
+    "static/media/modern.png": "/Clubs/static/media/modern.b4e0ed79b4a9dfd158ed.png",
+    "index.html": "/Clubs/index.html",
+    "main.f60d8ec5.css.map": "/Clubs/static/css/main.f60d8ec5.css.map",
+    "main.a0ef0989.js.map": "/Clubs/static/js/main.a0ef0989.js.map",
+    "453.ab4e8145.chunk.js.map": "/Clubs/static/js/453.ab4e8145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f60d8ec5.css",
+    "static/js/main.a0ef0989.js"
+  ]
+}
